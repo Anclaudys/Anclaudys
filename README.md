@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Anclaudys/Anclaudys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an app that allows you to code with your voice by taking advantage of the Serenade API. 
 - 🌱 I’m currently learning Docker. 
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Anclaudys@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I have 2 small maltese dogs. 
--->
+
