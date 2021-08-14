@@ -8,5 +8,5 @@
 - 💬 Ask me about Linux!
 - 📫 How to reach me: Anclaudys@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  I have 2 small maltese dogs. 
+- ⚡ Fun fact:  I have 2 white maltese dogs. 
 
