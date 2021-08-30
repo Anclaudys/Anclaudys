@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on an app that allows you to code with your voice by taking advantage of the Serenade API. 
+- 🔭 I’m currently...
 - 🌱 I’m currently learning Docker. 
 - 👯 I’m looking to collaborate on projects that require more back-end.
 - 🤔 I’m looking for help with web-design
