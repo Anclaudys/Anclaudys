@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#My name is Anclaudys, but you can just call me "Cloud"! 
+# My name is Anclaudys, but you can just call me "Cloud"! 
 
 I used to be a bilingual children's coding instructor where I exposed the children of my underserved and underrepresented community to the creative and practical aspects of technology by using Lego Robotics, Arduino, Raspberry Pi, Linux, and Scratch. 
 
