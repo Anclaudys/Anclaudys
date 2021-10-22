@@ -10,7 +10,7 @@ I left teaching to pursue my passion for code and to become the best software en
 
 - 🔭 I’m currently studying data structures and algorithms. 
 - 🌱 I’m currently learning graph algorithms in network routing (Surprisingly, this is a relatively more leisurely activity compared to grinding algos and ds problems). 
-- 👯 I’m looking to collaborate on projects that require more back-end.
+- 👯 I’m looking to collaborate on projects that require more back-end work.
 - 🤔 I’m looking for help with dynamic programming. I want to improve there. 
 - 💬 Ask me about Linux! If you are running a server that uses Linux, I can make it do many things... ;) 
 - 📫 How to reach me: Anclaudys@gmail.com
