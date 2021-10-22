@@ -18,5 +18,5 @@ I left teaching to pursue my passion for code and to become the best software en
 - 💬 Ask me about Linux! If you are running a server that uses Linux, I can make it do many things... ;) 
 - 📫 How to reach me: Anclaudys@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  I'm teaching my 11 year old sister Hannah how to code. She's such a brilliant person!
+- ⚡ Fun fact:  I'm teaching my 11 year old sister Hannah how to code. Young people who are curious and willing to learn have a special place in my heart. 
 
